@@ -1,0 +1,57 @@
+Felix Yifu Wan
+(510) 417-6797 | wanyifu2009@gmail.com | 2503 Ellsworth Street, Berkeley, CA 94704
+
+EDUCATION  
+UNIVERSITY OF CALIFORNIA, BERKELEY						    	        MAY 2015
+Bachelor of Science in Electrical Engineering and Computer Science
+Bachelor of Art in Legal Studies
+Cumulative GPA: 3.42; SAT I, 2250 (800M 710V 740W); SAT II Math 800 Physics 800 Chemistry 800
+
+EXPERIENCE
+Edgeworth Economics LLC. 							                  February 2014 to now
+Consultant Intern
+Built retail entry model and wrote 1500+ lines Gauss code for Monte Carlo Simulation over 200 markets	Researched royalty rate standard in IT industry and analyzed the effect of royalty stacking on market entry 	Studied 120+ cases on anti-monopoly remedy in China to predict the possibility of merger clearance
+
+China Guodian Cooperation 							           May 2013 to August 2013
+Intern, Risk Analysis Group
+Performed research on the energy industry and collected industry news and data for stock price prediction
+Wrote report on energy stocks and assisted manage a portfolio of 200M of return rate of 5.3% in the period
+Used time series analysis on interbank lending rate to 5 inputs to suggest optimal reserve in 1 year span
+Troubleshot data errors in auditing system and drafted user guidebook followed by 800 employees
+
+Beifang Market Strategy Group December 2012 to February 2013
+Consultant Intern
+Performed comparative case study on 20+ Chinese golf clubs to present development predictions for client
+Proposed a year-by-year multi-scenario plan on detailed operation mode and market segmentation
+Recommended an 1.4 million ¥ marketing funding redistribution according to social and legal analysis
+
+StatNews, EECS at UC Berkeley                                            			  August 2013 to December 2013
+ Research Assistant
+Wrote python scraper to preprocess financial data of 3 format from 8 mainstream websites
+Improved learning algorithm to interpret high-dimension data and increased performance factor by 1.14 
+Wrote 3000+ lines testing code and refactored 5000+ lines of C code for data and thread level parallelism
+Employed D3.js to perform data visualization and finalized 6 graphs in 2 research publications 
+
+Online Shopping Item Classification Program                                         	           June 2013 to August 2013
+Project Team Leader                                                                                    
+Provided data analysis reports to 8 online shopping sites by doing regression analysis in Matlab
+Monitored users’ clicking pattern to construct mathematical model for designing classification algorithm 
+Increased average clicking iterations of each visit by 1.2 with a calculated 8$ more revenue per customer
+
+High School Counseling Program                                                                  	    November 2013 to Present
+Founder and President
+Led a team of 6 to develop a web-based app to give preparation guidance to 4500+ high school   students 
+Analyzed 15000+ data points and derived the correlation of students’ performance to several inputs   
+Proposed a graduate tracking system on Salesforce platform to serve data for algorithm improvement
+
+SKILLS & INTERESTS  
+Language: Native Fluency in Mandarin Chinese, Professional Fluency in American English
+Business Skills: Mathematical Modeling, Business Modeling, Survey Design, Data Analysis, Project Management
+IT Skills: Database Management, Data Visualization, Machine Learning, Object-Oriented Programming, Network
+Software Proficiencies: C, Java, Python, Ruby on Rails, MySQL, Hbase, Unix, Matlab, Stata, R, Bloomberg
+Interests: Public Speaking, Classical Music Composition, Poker commentary, Piano Tutoring, Curling, Writing
+
+AWARD
+Fourth Place (Out of 130) Berkeley Investment Group’s Stock Simulation Competition (2013) 
+1st Place (Out of 120) PBL Poker Tournament (2013)            5th Place (Out of 100)BORP Charity Poker(2014)
+Junior District Champion of Chinese Chess (2008)                                Amateur San-Dan of the Chess of Go
